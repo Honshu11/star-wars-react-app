@@ -6,6 +6,7 @@
 
 Check out the app [HERE](https://honshu-star-wars-app.herokuapp.com/!)
 
+![Screenshot](src/Images/StarWarsAPIscreenshot.png)
 
 
 ## Summary
